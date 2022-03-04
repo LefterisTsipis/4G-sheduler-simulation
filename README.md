@@ -1,2 +1,2 @@
 # 4G-sheduler-simulation
-Προσομοίωση ενός  χρονοδρομολογητή σε ασύρματο περιβάλλον OFDMA (Orthogonal Frequency-Division Multiple Access) κινητών επικοινωνιων  και μελέτη των βασικών χαρακτηριστικών του.
+Simulation of Adaptive scheduling algorithm in OFDM (Orthogonal Frequency-Division Multiple Access) wireless communications environment and study of its basic characteristics.
